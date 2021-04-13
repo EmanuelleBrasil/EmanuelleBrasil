@@ -14,6 +14,7 @@ I'm currently studying **web development** and these are some languages and tool
 ### My Projects:
 <a target="_blank" href="https://wallet-emanuellebrasil.vercel.app/">
  Minhas despesas
+  <img align="middle" alt="MinhasDespesas" width="60px" src="./minhas despesas login.png" />
 </a>
 
 ### You can contact me:
