@@ -6,6 +6,7 @@ I'm currently studying **web development** and these are some languages and tool
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" alt="html5"/></code>
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" alt="css3"/></code>
 <code><img height="38" src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" alt="Java Script"></code>
+<code><img height="38" src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-icon-logo.png" alt="Node"/></code>
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" alt="git"/></code>
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" alt="linux"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
@@ -13,16 +14,14 @@ I'm currently studying **web development** and these are some languages and tool
 
 
 ### My Projects:
-<p>
-<a align="left" target="_blank" href="https://wallet-emanuellebrasil.vercel.app/">
-  <img align="left" alt="MinhasDespesas" width="300px" src="./minhas despesas login.png" />
+<p align="left">
+<a  target="_blank" href="https://wallet-emanuellebrasil.vercel.app/">
+  <img alt="MinhasDespesas" width="300px" src="./minhas despesas login.png" />
 </a>
-<a align="right" target="_blank" href="https://filter-starwarsplanets.netlify.app/">
-  <img align="right" alt="MinhasDespesas" width="300px" src="./star wars planets.png" />
+<a target="_blank" href="https://filter-starwarsplanets.netlify.app/">
+  <img  alt="StarWarsPlanets" width="280px" src="./star wars planets.png" />
 </a>
-</p> <br>
-<br>
-<br>
+</p>
 
 
 ### You can contact me:
