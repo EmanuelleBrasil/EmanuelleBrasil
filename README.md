@@ -68,8 +68,12 @@ I'm **Full Stack Developer** and these are some languages and tools that I use:<
 <h2 align="left">You can contact me:</h2>
 <p align="left">
  <h3> 📫 emanuelle.rbl@gmail.com</h3>
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelle-brasil/" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/manu_rbl/" /> 
+ <a href="https://www.linkedin.com/in/emanuelle-brasil/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+ </a>
+ <a href="=https://www.instagram.com/manu_rbl/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+ </a>
 </p>
 <br>
 
