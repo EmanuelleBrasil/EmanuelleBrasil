@@ -70,7 +70,7 @@ I'm **Full Stack Developer** and these are some languages and tools that I use:<
  <h3> 📫 emanuelle.rbl@gmail.com</h3>
  <a href="https://www.linkedin.com/in/emanuelle-brasil/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
- </a>
+ </a> <br>
  <a href="https://www.instagram.com/manu_rbl/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
  </a>
