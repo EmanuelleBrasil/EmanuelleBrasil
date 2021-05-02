@@ -67,17 +67,17 @@ I'm **Full Stack Developer** and these are some languages and tools that I use:<
 
 <h2 align="left">You can contact me:</h2>
 <p align="left">
- <h3> 📫 email: emanuelle.rbl@gmail.com</h3>
+ <h3> 📫 emanuelle.rbl@gmail.com</h3>
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelle-brasil/" />
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/manu_rbl/" /> 
 </p>
 <br>
 
 <h2 align="left">Stats:</h2>
-<p align="center">
+<div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanuelleBrasil&show_icons=true&theme=onedark&locale=en&layout=compact" alt="EmanuelleBrasil" />
-  <br>
+  <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelleBrasil&show_icons=true&theme=onedark&locale=en" alt="EmanuelleBrasil" />
-  <br>
+  <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelleBrasil&theme=onedark" alt="EmanuelleBrasil" />
-</p>
+</div>
