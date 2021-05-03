@@ -1,4 +1,4 @@
-<h2 aling="center"> Hi there :hugs: I'm Emanuelle</h2>
+<h1 aling="center"> Hi there :hugs: I'm Emanuelle</h1>
 
 <p>A brazilian girl passionate about <strong>technology 👩🏽‍💻, nature :deciduous_tree: and travels</strong> 	:airplane: :earth_americas:.<br>
 I'm <strong>Full Stack Developer</strong> and these are some languages and tools that I use:</p>
@@ -81,10 +81,10 @@ I'm <strong>Full Stack Developer</strong> and these are some languages and tools
 <br>
 
 <h2 align="left">Stats:</h2>
-<div align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanuelleBrasil&show_icons=true&theme=onedark&locale=en&layout=compact" alt="EmanuelleBrasil" />
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelleBrasil&show_icons=true&theme=onedark&locale=en" alt="EmanuelleBrasil" />
   <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelleBrasil&theme=onedark" alt="EmanuelleBrasil" />
-</div>
+</p>
