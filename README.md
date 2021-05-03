@@ -1,7 +1,7 @@
 <h2 aling="center"> Hi there :hugs: I'm Emanuelle</h2>
 
-<p>A brazilian girl passionate about **technology 👩🏽‍💻, nature :deciduous_tree: and travels** 	:airplane: :earth_americas:.
-I'm **Full Stack Developer** and these are some languages and tools that I use:</p>
+<p>A brazilian girl passionate about <strong>technology 👩🏽‍💻, nature :deciduous_tree: and travels</strong> 	:airplane: :earth_americas:.
+I'm <strong>Full Stack Developer</strong> and these are some languages and tools that I use:</p>
 
 <br>
 <p align="center">
