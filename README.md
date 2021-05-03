@@ -1,6 +1,6 @@
 <h2 aling="center"> Hi there :hugs: I'm Emanuelle</h2>
 
-<p>A brazilian girl passionate about <strong>technology 👩🏽‍💻, nature :deciduous_tree: and travels</strong> 	:airplane: :earth_americas:.
+<p>A brazilian girl passionate about <strong>technology 👩🏽‍💻, nature :deciduous_tree: and travels</strong> 	:airplane: :earth_americas:.<br>
 I'm <strong>Full Stack Developer</strong> and these are some languages and tools that I use:</p>
 
 <br>
@@ -59,7 +59,7 @@ I'm <strong>Full Stack Developer</strong> and these are some languages and tools
 </p>
 
 <h2 align="left">My Projects:</h2>
-<p align="left">
+<p align="center">
 <a  target="_blank" href="https://wallet-emanuellebrasil.vercel.app/">
   <img alt="MinhasDespesas" width="300px" src="./minhas despesas login.png" />
 </a>
